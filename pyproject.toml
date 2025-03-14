@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "unzipping"
-version = "1.0.0"
-description = "Doing the inverse of zip, including to empty iterables."
+version = "1.0.1"
+description = "The inverse of zip, including for empty iterables."
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [{name = "John Dawson", email = "john.a.dawson@proton.me"}]

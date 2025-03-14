@@ -1,4 +1,4 @@
-"""Doing the inverse of zip, including to empty iterables.
+"""The inverse of zip, including for empty iterables.
 
 Functions
 ---------
